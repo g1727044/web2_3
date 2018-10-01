@@ -1,7 +1,7 @@
 @charset "UTF-8"
 body{
   background-color: #fbf9cc; /* 背景色を変える */
-  background-image: ur1(../imq/IMG_2250.JPG)
+  background-image: ur1(../imq/IMG_2250.jpg)
   background-repeat: repeat-x;
 }
 h1{
