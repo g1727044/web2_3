@@ -1,1 +1,32 @@
-
+@charset "UTF-8"
+body{
+  background-color: #fbf9cc; /* 背景色を変える */
+}
+h1{
+  font-size: 1.75em;
+  color: #3399cc;
+  text-align: center;
+}
+h2{
+  font-size: 1.25em;
+  color: #ffffff;
+  border: #94c8b1 1px dotted; /* 境界線 */
+  border-left: #d0e35b 10px solid;
+  margin-bottom: 0; /* 隣り合う要素との間隔 */
+  padding: 5px 20px;
+}
+p{
+  font-size: 0.8em;
+  background-color: #3399cc; /* 段落の文字の背景の色だけが変わる */
+  color: #333333;
+}
+li{
+  font-size: 0.8em;
+  color: #333333;
+}
+a{
+  color: #df4839;
+}
+a:hover{
+  color: #ff705b; /* マウスが乗った時だけ特別な色 */
+}
