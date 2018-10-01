@@ -1,7 +1,7 @@
 @charset "UTF-8"
 body{
   background-color:#fbf9cc;/* 背景色を変える */
-  background-image:ur1(../imq/lanch.jpg);/* 背景画像を変える */
+  background-image:url(../imq/lanch.jpg);/* 背景画像を変える */
   background-repeat:repeat-x;/* 横方向だけ繰り返し */
 }
 h1{
